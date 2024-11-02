@@ -66,13 +66,7 @@ HeliosIA is an AI-powered tool designed to analyze nighttime road usage by cars 
 
 To process raw drone videos for use with HeliosIA, utilize the [HeliosPostProcessing](https://github.com/Septimus4/HeliosPostProcessing) tool. This pre-processing step includes stabilizing footage, enhancing low-light visibility, and formatting data for analysis.
 
-**Steps:**
-
-1. **Clone HeliosPostProcessing**
-
-   ```bash
-   git clone https://github.com/Septimus4/HeliosPostProcessing.git
-   ```
+**Clone HeliosPostProcessing**
 
 2. **Process Videos**
 
